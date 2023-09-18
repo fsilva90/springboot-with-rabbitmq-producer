@@ -1,1 +1,1 @@
-# springboot-com-rabbitmq-producer
+# springboot-with-rabbitmq-producer
